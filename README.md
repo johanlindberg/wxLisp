@@ -10,6 +10,6 @@ I plan to use CFFI and will work on the project from two different machines. One
 
 #### Preparation
 
-[ ] Get wxWidgets 2.8.12 running on Lubuntu/Mac OS X 10.6.
-[X] Update to latest versions of SBCL/CCL, SLIME and Emacs/Aquamacs.
+- [ ] Get wxWidgets 2.8.12 running on Lubuntu/Mac OS X 10.6.
+- [X] Update to latest versions of SBCL/CCL, SLIME and Emacs/Aquamacs.
 
