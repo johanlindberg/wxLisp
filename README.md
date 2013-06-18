@@ -4,12 +4,12 @@ wxWidgets is a C++ library that lets developers create applications for Windows,
 
 This will be my entry in the 2013 [Lisp In Summer Projects](http://lispinsummerprojects.org/) competition.
 
-I plan to use CFFI and will work on the project from two different machines. One running Lubuntu + SBCL and the other Mac OS X 10.8 + Clozure CL.  
+I plan to use CFFI and will work on the project from two different machines. One running Lubuntu + SBCL and the other Mac OS X 10.6 + Clozure CL.  
 
 ### TODO
 
 #### Preparation
 
-* Get wxWidgets 2.8.12 running on Lubuntu/Mac OS X 10.8
-* Update to latest versions of SBCL/CCL, SLIME, Emacs/Aquamacs
+[ ] Get wxWidgets 2.8.12 running on Lubuntu/Mac OS X 10.6.
+[X] Update to latest versions of SBCL/CCL, SLIME and Emacs/Aquamacs.
 
